@@ -1,0 +1,15 @@
+Solution
+
+Click the image.
+Get a number 'next nothing.'
+Paste it in the url. Gives another number.
+Go to another next nothing. You are getting tired.
+Use urllib to get the correct link after requesting 400 times.
+Use the script to continue, when there is a misleading, code will stop eventually and you will see where you should go.
+peak.html
+
+
+Text in Source:
+
+<!-- urllib may help. DON'T TRY ALL NOTHINGS, since it will never 
+end. 400 times is more than enough. -->
