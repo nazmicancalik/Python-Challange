@@ -1,0 +1,11 @@
+#!/usr/bin/python
+import pickle
+from urllib.request import urlopen
+
+def main():
+	url ="http://www.pythonchallange.com/pc/def/banner.p""http://www.pythonchallange.com/pc/def/banner.p"
+	raw = urlopen(url).read()
+	#print raw data
+	print (raw)
+if __name__ == '__main__':
+	main()
