@@ -1,0 +1,5 @@
+Solution:
+Odd even means we have to interlace the image into tow parts.
+Drop some of the rows and get the remaining image resized.
+Save the image into a new file.
+Answer is written in the image.
