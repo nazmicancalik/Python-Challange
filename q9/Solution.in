@@ -1,0 +1,19 @@
+# My Solution
+First open the page source.
+Discover the first and second.
+Don't add anything.
+Go to this link to learn more about html area links. Maps.
+https://www.w3schools.com/tags/att_area_coords.asp
+
+Download the page source (page folder).
+Edit the html so that it shows a map area with coordinates first.
+Put a link to see the shape afterwards.
+Click the link and go back to page. Now hover over link and you see a cow.
+Go to cow.html
+It says it is male.
+Answer : Go to bull.html
+-------------------------------------------
+#Python draw image solution
+Idea is the same.
+In this one using the script create an image with the given coordinates.
+Get the bull shape.
